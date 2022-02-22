@@ -1,0 +1,1 @@
+This is an initial attempt to make a fully working API integration, primarily for Home Assistant.
